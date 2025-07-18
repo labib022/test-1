@@ -49,6 +49,12 @@ console.log("1-20 er Jogfol :", sum);
 
 // Prblm 4
 
+let number = 7; 
+
+for (let i = 1; i <= 10; i++) {
+    console.log(`${number} * ${i} = ${number * i}`);
+}
+
 
 
 
