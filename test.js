@@ -1,42 +1,42 @@
-// Prb-1
+Prb-1
 
-// for (let i = 1; i <= 10; i++) {
-//   console.log(i);
-// }
-
-
-// Prb-2
-
-// const numbers = [1,2,3,4,5,6,7,8,9,10];
-
-// console.log("Even numbers:");
-
-// for (let i = 0; i < numbers.length; i++) {
-//     if (numbers[i] % 2 === 0) {
-//         console.log(numbers[i]);
-//     }
-// }
+for (let i = 1; i <= 10; i++) {
+  console.log(i);
+}
 
 
+Prb-2
+
+const numbers = [1,2,3,4,5,6,7,8,9,10];
+
+console.log("Even numbers:");
+
+for (let i = 0; i < numbers.length; i++) {
+    if (numbers[i] % 2 === 0) {
+        console.log(numbers[i]);
+    }
+}
 
 
-// console.log("Odd numbers:");
-
-// for (let i = 0; i < numbers.length; i++) {
-//     if (numbers[i] % 2 !== 0) {
-//         console.log(numbers[i]);
-//     }
-// }
 
 
-// Prblm 7 
+console.log("Odd numbers:");
 
-// for (let i = 10; i >= 1; i--) {
-//   console.log(i);
-// }
+for (let i = 0; i < numbers.length; i++) {
+    if (numbers[i] % 2 !== 0) {
+        console.log(numbers[i]);
+    }
+}
 
 
-// Prblm 6
+Prblm 7 
+
+for (let i = 10; i >= 1; i--) {
+  console.log(i);
+}
+
+
+Prblm 6
 
 
 let sum = 0;
