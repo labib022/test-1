@@ -58,20 +58,82 @@
 
 
 
-let yourName = "Labib";
-let yourAge = 26;
-let isStudent = true;
-let x = null;
+// let yourName = "Labib";
+// let yourAge = 26;
+// let isStudent = true;
+// let x = null;
 
 
-console.log("Name:",yourName);
-console.log("Age:",yourAge);
-console.log("Occupation:",isStudent);
-console.log("value:",x);
+// console.log("Name:",yourName);
+// console.log("Age:",yourAge);
+// console.log("Occupation:",isStudent);
+// console.log("value:",x);
 
 
-let name ="Labib";
-let Age = 26;
+// let name ="Labib";
+// let Age = 26;
 
- let message = `Hellow, I am ${name} and I am ${Age} years old`;
- console.log(message);
+//  let message = `Hellow, I am ${name} and I am ${Age} years old`;
+//  console.log(message);
+
+
+
+// let x = 10;
+// let y = 4;
+
+// console.log(x + y);
+// console.log(x - y);
+// console.log(x * y);
+// console.log(x / y);
+// console.log(x % y);
+
+// let x = 10;
+// let y = "10";
+
+// console.log(x == y);
+// console.log(x === y);
+// console.log(x != y);
+// console.log(x !== y);
+// console.log(x > y);
+// console.log(x < y);
+
+
+
+// let age = 26;
+// let isPlayer = true;
+
+// console.log(age > 18 && isPlayer);
+// console.log(age > 18 || isPlayer);
+// console.log( !isPlayer);
+
+
+// let age = 26;
+
+// if(age >= 18){
+//   console.log("You are an adult.");
+// } else if(age >= 13){
+//   console.log("You are a teenager.");
+// } else {
+//   console.log("You are a child.");
+// }
+
+
+
+// let day = "Saturday";
+
+// switch (day) {
+//   case "Sunday":
+//     console.log("Start of the week");
+//     break;
+//     case "Friday":
+//       console.log("End Of the week");
+//       break;
+//       default:
+//         console.log("Midweek day");
+// }
+
+
+
+
+
+
